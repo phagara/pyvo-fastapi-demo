@@ -1,6 +1,8 @@
 # pyvo-fastapi-demo
 
-Smol FastAPI demo app for a Pyvo Brno talk.
+Smol FastAPI demo app for a Pyvo Brno talk
+(see [event details](https://pyvo.cz/brno-pyvo/2023-10/)
+and [video recording](https://www.youtube.com/watch?v=FiVXISPeKO4)).
 
 ## How to run the app, tests, linters, and code formatters
 
